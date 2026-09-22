@@ -166,3 +166,5 @@ require (
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 	lukechampine.com/blake3 v1.3.0 // indirect
 )
+
+replace github.com/metacubex/utls => github.com/kauri-off/utls v1.8.5-0.20260922171604-29ed8606cf9f
